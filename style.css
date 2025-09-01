@@ -1,0 +1,40 @@
+.traffic-signal {
+    background-color: rgba(0, 0, 0, 0.745);
+    width: 150px;
+    height: 450px;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+#r1 {
+    background-color: red;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#y1 {
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#g1 {
+    background-color: green;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+#r1:hover {
+    box-shadow: 0px 0px 100px red;
+}
+
+#y1:hover {
+    box-shadow: 0px 0px 100px yellow;
+}
+
+#g1:hover {
+    box-shadow: 0px 0px 100px green;
+}
