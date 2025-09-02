@@ -6,7 +6,6 @@
 
 ## 🛠️ Features
 
-- Pure HTML and CSS – no JavaScript needed
-- Hover effects that simulate glowing lights
-- Responsive and clean UI
-- Great for beginners learning front-end basics
+- Pure HTML and CSS – no JavaScript needed.
+- Hover effects that simulate glowing lights.
+- Great for beginners learning front-end basics.
