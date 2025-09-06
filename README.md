@@ -1,4 +1,4 @@
-# 🚦hover-traffic-light
+# 🚦hover traffic light
 
 <img width="236" height="613" alt="Screenshot 2025-09-01 192326" src="https://github.com/user-attachments/assets/dce0b027-0571-46b6-b8dd-0b64772a7ec6" />
 
